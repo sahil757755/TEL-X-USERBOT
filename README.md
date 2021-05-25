@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./resources/extras/logo_readme.jpg" alt="TeamUltroid Logo">
+  <img src="./resources/extras/TEL-X-USERBOT/TEL-X_Logo.jpg" alt="TeamUltroid Logo">
 </p>
 
 <h1 align="center">
