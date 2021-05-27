@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./TEL-X_Logo.jpg" alt="TEL-X Logo">
+</p>
+
+
 
 <h1 align="center">
   <b>𝐓𝐄𝐋-𝐗 𝐔𝐬𝐞𝐫𝐁𝐨𝐭</b>
