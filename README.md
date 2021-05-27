@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./resources/extras/logo_readme.jpg" alt="TeamUltroid Logo">
+</p>
 
 <h1 align="center">
   <b>𝐓𝐄𝐋-𝐗 𝐔𝐬𝐞𝐫𝐁𝐨𝐭</b>
