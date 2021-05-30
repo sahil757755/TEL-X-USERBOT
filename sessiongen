@@ -1,0 +1,8 @@
+# Ultroid - UserBot
+# Copyright (C) 2020 TeamUltroid
+#
+# This file is a part of < https://github.com/sahil757755/TEL-X-USERBOT/ >
+# PLease read the GNU Affero General Public License in <https://github.com/sahil757755/TEL-X-USERBOT/blob/main/LICENSE>.
+
+bash resources/session/session.sh
+
