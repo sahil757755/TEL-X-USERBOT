@@ -28,3 +28,11 @@ Get the [Necessary Variables](#Necessary-Variables) and then click the button be
 - `SESSION` - SessionString for your accounts login session. Get it from [here](#Session-String)
 - `REDIS_URI` - Redis endpoint URL, from [redislabs](http://redislabs.com/), 
 - `REDIS_PASSWORD ` - Redis endpoint Password, from [redislabs](http://redislabs.com/), 
+
+
+## Session String
+Different ways to get your `SESSION`:
+* [![Run on Repl.it](https://replit.com/badge/github/TeamUltroid/Ultroid)](https://replit.com/@TeamUltroid/UltroidStringSession)
+* Linux : `bash -c "$(curl -fsSL https://del.dog/ultroid)"`
+* PowerShell : `cd desktop ; wget https://git.io/JY9JI ; python ultroid.py`
+* Termux : `sh -c "$(curl -fsSL https://da.gd/termux-tel)"`
