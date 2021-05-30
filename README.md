@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./TEL-X_Logo.jpg" alt="TEL-X Logo">
+  <img src="./IMG_20210530_122057.jpg" alt="TEL-X Logo">
 </p>
 
 
